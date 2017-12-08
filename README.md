@@ -1,6 +1,6 @@
 # elementui
 
-> A Vue.js project
+> 国信 使用elmentui 开发后端项目
 
 ## Build Setup
 
