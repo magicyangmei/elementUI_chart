@@ -8,6 +8,7 @@
 			</select>
 		</h1>
 		<Echart :options="changType"></Echart>
+		
 	</div>
 </template>
 <script>

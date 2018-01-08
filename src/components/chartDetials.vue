@@ -1,8 +1,5 @@
 <template>
    <div>
-   	<h2>
-   		{{changetype}} 
-   	</h2>
   	<div id="main">
   		
   	</div>
@@ -12,8 +9,6 @@
 
 <style>
 #main {
-  width: 600px;
-  margin: auto;
   height: 400px;
 }
 </style>
